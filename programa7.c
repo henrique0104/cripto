@@ -1,3 +1,4 @@
+// capitulo 3 exercicio 12
 #include<stdio.h>
 #include<math.h>
 
