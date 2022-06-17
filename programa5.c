@@ -1,3 +1,4 @@
+// captiulo 3 execicio 10
 #include<stdio.h>
 #include<math.h>
 
