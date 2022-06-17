@@ -1,3 +1,4 @@
+//capitulo 3 exercicio 13
 #include<stdio.h>
 #include<math.h>
 
