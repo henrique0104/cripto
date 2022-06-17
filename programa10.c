@@ -1,3 +1,5 @@
+// capitulo 5 exercicio 16
+
 #include<stdio.h>
 
 int main (void){
