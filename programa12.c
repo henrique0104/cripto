@@ -1,3 +1,4 @@
+// capitulo 5 questao 18
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
