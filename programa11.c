@@ -1,3 +1,4 @@
+// capitulo 5 exercicio 17
 #include<stdio.h>
 
 int main (void){
