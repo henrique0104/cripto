@@ -1,3 +1,4 @@
+// capitulo 4 exercicio 11
 #include<stdio.h>
 #include<math.h>
 
